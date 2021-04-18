@@ -1,0 +1,6 @@
+type Result {
+  message: String
+}
+type Query {
+  get: Result
+}
